@@ -29,7 +29,7 @@ Native macOS app. USB. No account, no cloud, no data collection.</p>
 
 **Transfers**
 - Fast direct transfers with a queue, live progress, cancel, and conflict handling (ask / keep both / replace / skip)
-- Copy between two connected phones
+- Two phones side by side in a split view
 - Photo & video import: scans DCIM / Pictures / Movies and copies only new items into `YYYY/YYYY-MM` folders, never overwriting
 
 **Screen mirroring & control**
@@ -55,7 +55,7 @@ Native macOS app. USB. No account, no cloud, no data collection.</p>
 
 - macOS 14 Sonoma or later (Apple silicon and Intel)
 - An Android phone with **USB debugging** enabled and a data-capable USB cable
-- Audio capture needs Android 11+; screen mirroring works on Android 5+ (tested on Android 12 and 17)
+- Audio capture needs Android 11+; tested on Android 12 and 17
 
 ## Install
 

@@ -29,7 +29,7 @@
 
 **Truyền tệp**
 - Truyền trực tiếp nhanh, có hàng đợi, tiến độ thật, hủy, xử lý trùng tên (hỏi / giữ cả hai / thay thế / bỏ qua)
-- Chép giữa hai điện thoại đang cắm
+- Hai điện thoại cạnh nhau (chia đôi cửa sổ)
 - Nhập ảnh/video: quét DCIM / Pictures / Movies, chỉ chép mục mới vào thư mục `YYYY/YYYY-MM`, không bao giờ ghi đè
 
 **Xem và điều khiển màn hình**
@@ -55,7 +55,7 @@
 
 - macOS 14 Sonoma trở lên (Apple silicon và Intel)
 - Điện thoại Android đã bật **Gỡ lỗi USB** và cáp USB truyền dữ liệu
-- Thu âm thanh cần Android 11+; xem màn hình chạy từ Android 5+ (đã thử trên Android 12 và 17)
+- Thu âm thanh cần Android 11+; đã thử trên Android 12 và 17
 
 ## Cài đặt
 
