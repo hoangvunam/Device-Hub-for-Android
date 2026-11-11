@@ -3,7 +3,7 @@
 *Last updated: 2026-11-11* · [Tiếng Việt](#chính-sách-bảo-mật)
 
 ## Summary
-Device Hub for Android runs entirely on your Mac. It does not collect, store on a server, or send any personal data. There are no accounts and no analytics.
+Device Hub for Android runs entirely on your Mac. It does not collect, store on a server, or send any personal data; the only network request it makes on its own is the update check described below. There are no accounts and no analytics.
 
 ## Who is responsible
 Hoàng Vũ Nam is the developer and the controller. Contact: [namhv.cntt@gmail.com](mailto:namhv.cntt@gmail.com).
@@ -13,6 +13,9 @@ Hoàng Vũ Nam is the developer and the controller. Contact: [namhv.cntt@gmail.c
 - Nothing is uploaded to the developer or any third party. The app has no analytics, advertising or crash-reporting service.
 - Preferences (for example theme and window layout) are stored locally on your Mac. Temporary files used for previews are kept in the system temporary folder and removed afterwards.
 - The app requests no permission to read your contacts, location, microphone or camera on the Mac. Audio from your phone is played on your Mac only while you mirror it.
+
+## Update check
+When the app opens (at most once per day) or when you choose **Check for Updates…**, it sends one HTTPS request to `api.github.com` to read the latest version number of this repository's releases. GitHub receives your IP address and the app name and version, and handles them under the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). The app sends no account, device, phone, file or usage data, and the developer receives nothing. Nothing is downloaded or installed automatically. You can turn the automatic check off in **Settings › General**.
 
 ## Distribution
 The app is distributed through GitHub Releases. GitHub processes downloads and visits to this repository under the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). The developer receives no personal information from it.
@@ -30,7 +33,7 @@ If this policy changes, the date above will change. Questions: [namhv.cntt@gmail
 *Cập nhật lần cuối: 2026-11-11*
 
 ## Tóm tắt
-Device Hub for Android chạy hoàn toàn trên máy Mac của bạn. Ứng dụng không thu thập, không lưu trên máy chủ và không gửi bất kỳ dữ liệu cá nhân nào. Không có tài khoản và không có analytics.
+Device Hub for Android chạy hoàn toàn trên máy Mac của bạn. Ứng dụng không thu thập, không lưu trên máy chủ và không gửi bất kỳ dữ liệu cá nhân nào; yêu cầu mạng duy nhất ứng dụng tự gửi là kiểm tra cập nhật mô tả bên dưới. Không có tài khoản và không có analytics.
 
 ## Bên chịu trách nhiệm
 Hoàng Vũ Nam là nhà phát triển và bên kiểm soát dữ liệu. Liên hệ: [namhv.cntt@gmail.com](mailto:namhv.cntt@gmail.com).
@@ -40,6 +43,9 @@ Hoàng Vũ Nam là nhà phát triển và bên kiểm soát dữ liệu. Liên h
 - Không có gì được tải lên nhà phát triển hay bên thứ ba. Ứng dụng không có analytics, quảng cáo hay dịch vụ báo lỗi.
 - Tùy chọn (như giao diện, bố cục cửa sổ) lưu cục bộ trên máy Mac. Tệp tạm dùng để xem trước nằm trong thư mục tạm của hệ thống và được xóa sau đó.
 - Ứng dụng không xin quyền đọc danh bạ, vị trí, micro hay camera của máy Mac. Âm thanh từ điện thoại chỉ được phát trên Mac khi bạn đang mirror.
+
+## Kiểm tra cập nhật
+Khi mở ứng dụng (tối đa một lần mỗi ngày) hoặc khi bạn chọn **Kiểm tra cập nhật…**, ứng dụng gửi một yêu cầu HTTPS tới `api.github.com` để đọc số phiên bản mới nhất trong mục Releases của repo này. GitHub nhận địa chỉ IP của bạn cùng tên và phiên bản ứng dụng, và xử lý theo [Tuyên bố quyền riêng tư của GitHub](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). Ứng dụng không gửi tài khoản, thông tin thiết bị, điện thoại, tệp hay dữ liệu sử dụng nào, và nhà phát triển không nhận gì. Không có gì được tự tải hay tự cài. Bạn có thể tắt tự kiểm tra trong **Cài đặt › Chung**.
 
 ## Phân phối
 Ứng dụng được phân phối qua GitHub Releases. GitHub xử lý lượt tải và lượt truy cập repo này theo [Tuyên bố quyền riêng tư của GitHub](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). Nhà phát triển không nhận thông tin cá nhân nào từ đó.
