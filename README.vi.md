@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://github.com/hoangvunam/afs-for-mac/releases/latest"><img alt="Tải về" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-GitHub%20Releases-2ea44f?style=for-the-badge&logo=apple&logoColor=white"></a>
   <img alt="Mac App Store: sắp có" src="https://img.shields.io/badge/Mac%20App%20Store-s%E1%BA%AFp%20c%C3%B3-lightgrey?style=for-the-badge&logo=appstore&logoColor=white">
-  <a href="https://androidfiletransfer.tunacorp.app"><img alt="Website" src="https://img.shields.io/badge/Website-androidfiletransfer.tunacorp.app-0a84ff?style=for-the-badge"></a>
 </p>
 
 <p align="center"><a href="README.md">🇬🇧 English</a></p>
@@ -90,7 +89,7 @@
 
 ## Quyền riêng tư
 
-Device Hub for Android không thu thập dữ liệu. Xem [Chính sách quyền riêng tư](https://androidfiletransfer.tunacorp.app/privacy) và [Điều khoản sử dụng](https://androidfiletransfer.tunacorp.app/terms).
+Device Hub for Android không thu thập dữ liệu. Xem [Chính sách quyền riêng tư](PRIVACY.md) và [Điều khoản sử dụng](TERMS.md).
 
 ## Phần mềm bên thứ ba
 
@@ -101,9 +100,9 @@ Thông báo đầy đủ nằm trong app (*Cài đặt → Giới thiệu → M�
 
 ## Hỗ trợ
 
-Email [tunacorp.app@gmail.com](mailto:tunacorp.app@gmail.com) hoặc [trang hỗ trợ](https://androidfiletransfer.tunacorp.app/support).
+Email [namhv.cntt@gmail.com](mailto:namhv.cntt@gmail.com) hoặc [trang hỗ trợ](SUPPORT.md).
 
 ---
 
 Repo này chỉ chứa bản tải và tài liệu; không chứa mã nguồn.
-© 2026 Hoàng Vũ Nam (TUNA Corp). Android là nhãn hiệu của Google LLC. Device Hub for Android là sản phẩm độc lập, không liên kết hay được Google bảo trợ.
+© 2026 Hoàng Vũ Nam. Android là nhãn hiệu của Google LLC. Device Hub for Android là sản phẩm độc lập, không liên kết hay được Google bảo trợ.

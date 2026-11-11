@@ -10,7 +10,6 @@ Native macOS app. USB or Wi‑Fi. No account, no cloud, no data collection.</p>
 <p align="center">
   <a href="https://github.com/hoangvunam/afs-for-mac/releases/latest"><img alt="Download for macOS" src="https://img.shields.io/badge/Download-GitHub%20Releases-2ea44f?style=for-the-badge&logo=apple&logoColor=white"></a>
   <img alt="Mac App Store: coming soon" src="https://img.shields.io/badge/Mac%20App%20Store-coming%20soon-lightgrey?style=for-the-badge&logo=appstore&logoColor=white">
-  <a href="https://androidfiletransfer.tunacorp.app"><img alt="Website" src="https://img.shields.io/badge/Website-androidfiletransfer.tunacorp.app-0a84ff?style=for-the-badge"></a>
 </p>
 
 <p align="center"><a href="README.vi.md">🇻🇳 Tiếng Việt</a></p>
@@ -90,7 +89,7 @@ Native macOS app. USB or Wi‑Fi. No account, no cloud, no data collection.</p>
 
 ## Privacy
 
-Device Hub for Android collects no data. See the [Privacy Policy](https://androidfiletransfer.tunacorp.app/privacy) and [Terms of Use](https://androidfiletransfer.tunacorp.app/terms).
+Device Hub for Android collects no data. See the [Privacy Policy](PRIVACY.md) and [Terms of Use](TERMS.md).
 
 ## Third-party software
 
@@ -101,9 +100,9 @@ Full notices are in the app (*Settings → About → Open Third-Party Notices*).
 
 ## Support
 
-Email [tunacorp.app@gmail.com](mailto:tunacorp.app@gmail.com) or visit the [support page](https://androidfiletransfer.tunacorp.app/support).
+Email [namhv.cntt@gmail.com](mailto:namhv.cntt@gmail.com) or visit the [support page](SUPPORT.md).
 
 ---
 
 This repository only hosts release downloads and documentation; it does not contain the source code.
-© 2026 Hoàng Vũ Nam (TUNA Corp). Android is a trademark of Google LLC. Device Hub for Android is an independent product and is not affiliated with or endorsed by Google.
+© 2026 Hoàng Vũ Nam. Android is a trademark of Google LLC. Device Hub for Android is an independent product and is not affiliated with or endorsed by Google.
