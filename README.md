@@ -8,7 +8,7 @@
 Native macOS app. USB or Wi‑Fi. No account, no cloud, no data collection.</p>
 
 <p align="center">
-  <a href="https://github.com/hoangvunam/afs-for-mac/releases/latest"><img alt="Download for macOS" src="https://img.shields.io/badge/Download-GitHub%20Releases-2ea44f?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/hoangvunam/Device-Hub-for-Android/releases/latest"><img alt="Download for macOS" src="https://img.shields.io/badge/Download-GitHub%20Releases-2ea44f?style=for-the-badge&logo=apple&logoColor=white"></a>
   <img alt="Mac App Store: coming soon" src="https://img.shields.io/badge/Mac%20App%20Store-coming%20soon-lightgrey?style=for-the-badge&logo=appstore&logoColor=white">
 </p>
 
@@ -65,7 +65,7 @@ Native macOS app. USB or Wi‑Fi. No account, no cloud, no data collection.</p>
 
 ## Install
 
-1. Download the latest `Device-Hub-for-Android-x.y.z.dmg` from [Releases](https://github.com/hoangvunam/afs-for-mac/releases/latest), open it and drag **Device Hub for Android** to Applications. The app is signed with Developer ID and notarized by Apple.
+1. Download the latest `Device-Hub-for-Android-x.y.z.dmg` from [Releases](https://github.com/hoangvunam/Device-Hub-for-Android/releases/latest), open it and drag **Device Hub for Android** to Applications. The app is signed with Developer ID and notarized by Apple.
 2. Files only: connect the phone, unlock it and choose **File transfer** in the USB notification — done. For mirroring and apps, also turn on USB debugging: **Settings → About phone →** tap *Build number* 7 times, then **Settings → System → Developer options → USB debugging**.
 3. Connect the phone by USB and tap **Allow** on the "Allow USB debugging?" prompt (tick *Always allow*).
 

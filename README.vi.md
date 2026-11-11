@@ -8,7 +8,7 @@
 Ứng dụng macOS thuần, kết nối USB hoặc Wi‑Fi. Không tài khoản, không đám mây, không thu thập dữ liệu.</p>
 
 <p align="center">
-  <a href="https://github.com/hoangvunam/afs-for-mac/releases/latest"><img alt="Tải về" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-GitHub%20Releases-2ea44f?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/hoangvunam/Device-Hub-for-Android/releases/latest"><img alt="Tải về" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-GitHub%20Releases-2ea44f?style=for-the-badge&logo=apple&logoColor=white"></a>
   <img alt="Mac App Store: sắp có" src="https://img.shields.io/badge/Mac%20App%20Store-s%E1%BA%AFp%20c%C3%B3-lightgrey?style=for-the-badge&logo=appstore&logoColor=white">
 </p>
 
@@ -65,7 +65,7 @@
 
 ## Cài đặt
 
-1. Tải `Device-Hub-for-Android-x.y.z.dmg` mới nhất ở [Releases](https://github.com/hoangvunam/afs-for-mac/releases/latest), mở ra và kéo **Device Hub for Android** vào Applications. Ứng dụng được ký Developer ID và Apple notarize.
+1. Tải `Device-Hub-for-Android-x.y.z.dmg` mới nhất ở [Releases](https://github.com/hoangvunam/Device-Hub-for-Android/releases/latest), mở ra và kéo **Device Hub for Android** vào Applications. Ứng dụng được ký Developer ID và Apple notarize.
 2. Chỉ chép tệp: cắm điện thoại, mở khoá và chọn **Truyền tệp** trong thông báo USB là xong. Muốn xem màn hình và quản lý ứng dụng thì bật thêm Gỡ lỗi USB: **Cài đặt → Giới thiệu điện thoại →** chạm *Số bản dựng* 7 lần, rồi **Cài đặt → Hệ thống → Tùy chọn nhà phát triển → Gỡ lỗi USB**.
 3. Cắm USB và chạm **Cho phép** ở hộp thoại "Cho phép gỡ lỗi USB?" (chọn *Luôn cho phép*).
 

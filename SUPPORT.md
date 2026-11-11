@@ -2,7 +2,7 @@
 
 [Tiếng Việt](#hỗ-trợ)
 
-Open an issue at [github.com/hoangvunam/afs-for-mac/issues](https://github.com/hoangvunam/afs-for-mac/issues) or email [namhv.cntt@gmail.com](mailto:namhv.cntt@gmail.com). Please include your Mac model, macOS version, phone model, Android version and what you were doing.
+Open an issue at [github.com/hoangvunam/Device-Hub-for-Android/issues](https://github.com/hoangvunam/Device-Hub-for-Android/issues) or email [namhv.cntt@gmail.com](mailto:namhv.cntt@gmail.com). Please include your Mac model, macOS version, phone model, Android version and what you were doing.
 
 ## Turn on USB debugging
 1. On the phone open **Settings → About phone** and tap **Build number** seven times to unlock Developer options.
@@ -27,7 +27,7 @@ Connect the phone, unlock it and choose **File transfer** (or **Transfer photos*
 
 # Hỗ trợ
 
-Mở issue tại [github.com/hoangvunam/afs-for-mac/issues](https://github.com/hoangvunam/afs-for-mac/issues) hoặc gửi email tới [namhv.cntt@gmail.com](mailto:namhv.cntt@gmail.com). Vui lòng kèm dòng máy Mac, phiên bản macOS, mẫu điện thoại, phiên bản Android và thao tác bạn đang làm.
+Mở issue tại [github.com/hoangvunam/Device-Hub-for-Android/issues](https://github.com/hoangvunam/Device-Hub-for-Android/issues) hoặc gửi email tới [namhv.cntt@gmail.com](mailto:namhv.cntt@gmail.com). Vui lòng kèm dòng máy Mac, phiên bản macOS, mẫu điện thoại, phiên bản Android và thao tác bạn đang làm.
 
 ## Bật Gỡ lỗi USB
 1. Trên điện thoại mở **Cài đặt → Giới thiệu điện thoại** và chạm **Số hiệu bản dựng** bảy lần để mở Tùy chọn nhà phát triển.
